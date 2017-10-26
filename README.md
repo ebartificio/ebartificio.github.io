@@ -1,15 +1,16 @@
-#### Hi, I am Edcel!
+# Hi, I am Edcel!
 
 Former public school teacher under the Fellowship Program of Teach for the Philippines, a non-government organization which identifies and selects young leaders to teach in the public school for two years. Taught as sixth grade class adviser and subject teacher on core subjects specifically sixth grade Math and Science.
 
 Currently work as a Consultant which provides technology solutions to various social enterprise and non-government organization.
 
-### Markdown
+## Education
+  
+  # Bachelor of Science in Computer Engineering
+    Polytechnic University of the Philippines-Manila
+    2010-2015
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
