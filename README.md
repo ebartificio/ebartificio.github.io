@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+#### Hi, I am Edcel!
 
-You can use the [editor on GitHub](https://github.com/ebartificio/ebartificio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Former public school teacher under the Fellowship Program of Teach for the Philippines, a non-government organization which identifies and selects young leaders to teach in the public school for two years. Taught as sixth grade class adviser and subject teacher on core subjects specifically sixth grade Math and Science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently work as a Consultant which provides technology solutions to various social enterprise and non-government organization.
 
 ### Markdown
 
